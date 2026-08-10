@@ -3,9 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Enquire Mangaung Digital Art Print</title>
 </head>
 <body>
+    <header>
+        <h1>Enquire About Mangaung Digital Art Print</h1>
+    </header>
       <nav>
     <a href="index.html">Home</a>
     <a href="ContactUs.html">Contact Us Page </a>
@@ -13,6 +16,53 @@
     <a href="Enquiry.html">Enquiry</a>
     <a href="Services.html">Services</a>
 </nav>
+<main>
+    <h2> Frequently Asked Questions</h2>
+    <p>Before submitting an enquiry check to see if your question is answered below:</p>
+
+    <ul>
+        <li><strong> Who can join the programs</strong> Anyone from the Mangung municipality looking to develop digital skills. </li>
+        <li><strong> Is there a cost</strong> As an NPO many of our introductory courses are free ir heavily subsidized for the young. </li>
+    </ul>
+
+    <h2>Make an Enquiry</h2>
+    <p>Use the form below to ask specific questions or apply for one of our programs</p>
+
+    <form>
+        <label for="fullName">Full Name</label><br>
+        <input type="text" id="fullName" name="fullName" required>
+        <br><br>
+
+        <label for="email">Emile Address:</label><br>
+        <input type="email" id="email" name="email" reuired>
+        <br><br>
+
+        <fieldset>
+            <legend>What is the nature of your enquiry?</legend>
+
+            <input type="radio" id="apply" name="enquiryType" value="Apply">
+            <label for="apply">I want to donate or partner</label><br>
+
+            <input type="radio" id="donate" name="enquiryType" value="Donate">
+            <label for="donate">I want to donate or partner</label><br>
+
+            <input type="radio" id="question" name="enquiryType" value="Question">
+            <label for="question">I have a general questions</label>
+
+        </fieldset>
+        <br>
+
+        <label for="detail">Please provide more details:</label><br>
+        <textarea id="details" name="details" rows="6" cols="50" required></textarea>
+        <br><br>
+
+        <button type="submit">Submit Enquiry</button>
+    </form>
+ 
+</main>
+<footer>
+    <p>&copy; 2026 Mangaung Digital Art Print. Section A Botshabelo</p>
+</footer>
     
 </body>
 </html>
