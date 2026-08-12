@@ -29,4 +29,5 @@ Project Structure
      └─── printing.jpg
 
 
-**GitHub Link** [https://github.com/Damian-21-student/DAMIAN-FORBES-WED5020-ASSIGNMENT-1-PART1]((https://github.com/Damian-21-student/DAMIAN-FORBES-WED5020-ASSIGNMENT-1-PART1))
+**GitHub Link** [https://github.com/Damian-21-student/DAMIAN-FORBES-WED5020-ASSIGNMENT-1-PART1](https://github.com/Damian-21-student/DAMIAN-FORBES-WED5020-ASSIGNMENT-1-PART1)
+**Netilfy Link**[https://app.netlify.com/projects/elaborate-stardust-447a92/deploys/6a7c9ce9978a1a7b65ee6862](https://app.netlify.com/projects/elaborate-stardust-447a92/deploys/6a7c9ce9978a1a7b65ee6862)
