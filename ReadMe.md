@@ -5,7 +5,17 @@ Markdown
 A  multi-page web platform built using semantic HTML this project serves as a website for **Mangaung Digital Art Print** a registered community focused Non-Profit Oraganisation located in Section A Botshabelo. The organizations primary focus areas include youth empowerment digital skills development artistic expression and job creation using digital art phtography graphic design and print technology.
 
 Purpose of website
-* 
+* Our primary focus is to drive youth empowerment and job creation within Mangung We achieve this ny providing access to modern creative tools, training and support.
+* Mangaung Digital Art Print provides youth and students in underprivileged communities with high-quality creative projects and easily accessible digital print services.
+* By use art as an alternative intervention, we hope to reduce school dropout rate technological digital skills and promote long-lasting socio-economic empowerment at the local level.
+* **Mangung Dighital Art Print** provides you with services such as:
+Digital Art and Illustration - Comprehensive training on digital drawing tablets and modern illustration software to help youth express their creativity.
+Photography and Visual Media - Teaching the fundamentals of camera operation lighting and photo editing tp capture the stories of our community.
+Graphic Design Essentials - Preparing students for the workplace by teaching them how to design logos,posters and professional branding.
+Modern Print Technology - Taking digital crations into the physical world we teach the operation of professional printers to create self-sustaining business opportunities.
+
+
+
 
 Features
 **Semantic HTML Structure:** Bult following strict guildelines using modern structural elements ('<header>', '<nav>', '<main>', '<footer>')
